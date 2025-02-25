@@ -1,0 +1,186 @@
+[
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Hi, I received a promo code for a discount on my next flight booking. How can I redeem it?"
+            },
+            {
+                "role": "chatbot",
+                "content": "Hello! You can redeem your promo code during the checkout process. Simply enter the code in the 'Promo Code' box on the payment page."
+            },
+            {
+                "role": "user",
+                "content": "Great, does the promo code have any restrictions or expiration date?"
+            },
+            {
+                "role": "chatbot",
+                "content": "Yes, most promo codes have an expiration date and may be limited to specific routes or travel dates. Could you provide the code so I can check the details for you?"
+            },
+            {
+                "role": "user",
+                "content": "Sure, the code is FLY2023."
+            },
+            {
+                "role": "chatbot",
+                "content": "Thank you. Let me verify the details of your promo code."
+            },
+            {
+                "role": "chatbot",
+                "content": "The promo code FLY2023 offers a 15% discount and is valid until December 31, 2023. It can be used for any international flight booking."
+            },
+            {
+                "role": "user",
+                "content": "Perfect, I'll make sure to use it before it expires. Thanks for the help!"
+            },
+            {
+                "role": "chatbot",
+                "content": "You're welcome! Enjoy your discount and have a great trip. If you have any other questions, feel free to ask."
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Hello, I saw a promo for free baggage allowance on your website. How do I apply it to my booking?"
+            },
+            {
+                "role": "chatbot",
+                "content": "Hi there! To apply the free baggage allowance promo, you need to enter the promo code during the booking process on the payment page."
+            },
+            {
+                "role": "user",
+                "content": "Do I need to enter the promo code at a specific step during booking?"
+            },
+            {
+                "role": "chatbot",
+                "content": "Yes, please enter the promo code in the 'Promo Code' field during the payment step. This will automatically apply the free baggage allowance to your booking."
+            },
+            {
+                "role": "user",
+                "content": "Got it. Is there any way to check if the promo was successfully applied before finalizing the booking?"
+            },
+            {
+                "role": "chatbot",
+                "content": "Certainly! Once the code is entered, the discount will be reflected in your booking summary before you confirm and pay."
+            },
+            {
+                "role": "user",
+                "content": "Great, thanks for the guidance."
+            },
+            {
+                "role": "chatbot",
+                "content": "You're welcome! If you need further assistance or have more questions, feel free to reach out. Have a wonderful flight!"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Hi, I have a loyalty program voucher for an upgrade. Can I use it online?"
+            },
+            {
+                "role": "chatbot",
+                "content": "Hello! Yes, you can use your loyalty program voucher for an upgrade when booking online. Please enter the voucher code in the 'Voucher Code' field during the seat selection process."
+            },
+            {
+                "role": "user",
+                "content": "What if I already booked my flight? Can I still use the voucher to upgrade?"
+            },
+            {
+                "role": "chatbot",
+                "content": "Certainly! If you've already booked your flight, you can apply the voucher by managing your booking online. Simply enter the voucher code in the 'Manage Booking' section and select the upgrade option."
+            },
+            {
+                "role": "user",
+                "content": "Are there any restrictions on which flights I can upgrade with the voucher?"
+            },
+            {
+                "role": "chatbot",
+                "content": "Yes, some restrictions may apply based on the voucher type. Typically, upgrades are subject to availability and may not apply to certain promotional fares or partner airlines. I recommend checking the terms and conditions of your voucher."
+            },
+            {
+                "role": "user",
+                "content": "Okay, I'll check that. Thanks for the information!"
+            },
+            {
+                "role": "chatbot",
+                "content": "You're welcome! If you need any more help or have further questions, feel free to reach out. Enjoy your upgraded flight experience!"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Hello, I got an email about a seasonal discount. How can I use it for my booking?"
+            },
+            {
+                "role": "chatbot",
+                "content": "Hi! To use your seasonal discount, you need to enter the promo code provided in the email during the checkout process on our website."
+            },
+            {
+                "role": "user",
+                "content": "Where exactly do I enter the promo code?"
+            },
+            {
+                "role": "chatbot",
+                "content": "You'll find a 'Promo Code' field on the payment page. Enter the code there, and the discount will be applied to your total fare."
+            },
+            {
+                "role": "user",
+                "content": "Is the discount applicable to all flights?"
+            },
+            {
+                "role": "chatbot",
+                "content": "The seasonal discount is applicable to selected flights. Please check the email details or our website for the list of eligible routes and travel dates."
+            },
+            {
+                "role": "user",
+                "content": "Thanks, I'll make sure to do that."
+            },
+            {
+                "role": "chatbot",
+                "content": "You're welcome! If you have any other questions or need further assistance, feel free to ask. Enjoy your discounted flight!"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Hi, I have a promo code for an extra legroom seat. How do I redeem it when booking?"
+            },
+            {
+                "role": "chatbot",
+                "content": "Hello! You can redeem your promo code for an extra legroom seat during the seat selection process. Just enter the code in the 'Promo Code' field provided."
+            },
+            {
+                "role": "user",
+                "content": "Is there an additional cost for the extra legroom seat even with the promo code?"
+            },
+            {
+                "role": "chatbot",
+                "content": "With the promo code, the extra legroom seat should be free or discounted, depending on the terms of the promo. The discount will be reflected in your booking summary."
+            },
+            {
+                "role": "user",
+                "content": "What if the extra legroom seats are sold out?"
+            },
+            {
+                "role": "chatbot",
+                "content": "If extra legroom seats are unavailable, you can try selecting them again closer to your departure date, as availability may change. Alternatively, contact our customer service for assistance."
+            },
+            {
+                "role": "user",
+                "content": "Alright, thanks for the help!"
+            },
+            {
+                "role": "chatbot",
+                "content": "You're welcome! If you need further assistance, don't hesitate to reach out. Have a comfortable flight!"
+            }
+        ]
+    }
+]

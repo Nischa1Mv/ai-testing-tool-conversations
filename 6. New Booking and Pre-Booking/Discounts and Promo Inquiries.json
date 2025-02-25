@@ -1,0 +1,146 @@
+[
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Hi, do you have any discounts available for students?"
+            },
+            {
+                "role": "chatbot",
+                "content": "Hello! Yes, we offer student discounts on select flights. Could you provide details like your departure and destination cities and travel date?"
+            },
+            {
+                "role": "user",
+                "content": "I’m flying from Boston to San Diego on March 20."
+            },
+            {
+                "role": "chatbot",
+                "content": "Great! I’ll check for available student discounts. You may need to provide a valid student ID during check-in. Would you like to proceed with the booking?"
+            },
+            {
+                "role": "user",
+                "content": "Yes! How do I apply the discount?"
+            },
+            {
+                "role": "chatbot",
+                "content": "During the booking process, select 'Student Discount' and enter your student ID details. The discount will be applied automatically."
+            },
+            {
+                "role": "user",
+                "content": "Awesome! I’ll book it now. Thanks!"
+            },
+            {
+                "role": "chatbot",
+                "content": "You're welcome! Let me know if you need any further assistance. Have a great flight!"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Hello, do you have any ongoing promotions or coupon codes?"
+            },
+            {
+                "role": "chatbot",
+                "content": "Hi! We currently have a 10% discount on flights booked at least 30 days in advance. Would you like me to check if your travel dates qualify?"
+            },
+            {
+                "role": "user",
+                "content": "Yes, I’m planning to travel on May 15."
+            },
+            {
+                "role": "chatbot",
+                "content": "Perfect! Your travel date qualifies for the 10% early booking discount. Use promo code 'EARLY10' at checkout to avail the offer."
+            },
+            {
+                "role": "user",
+                "content": "Great! Does this promo apply to both economy and business class?"
+            },
+            {
+                "role": "chatbot",
+                "content": "Yes, this promo applies to both economy and business class. However, it cannot be combined with other offers."
+            },
+            {
+                "role": "user",
+                "content": "Thanks for the info! I’ll book my ticket now."
+            },
+            {
+                "role": "chatbot",
+                "content": "You're welcome! Let me know if you need any assistance. Have a safe journey!"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Hi, do you offer discounts for senior citizens?"
+            },
+            {
+                "role": "chatbot",
+                "content": "Hello! Yes, we offer special fares for passengers aged 60 and above on select routes. Would you like me to check availability for your route?"
+            },
+            {
+                "role": "user",
+                "content": "Yes, I’m flying from Dallas to Orlando on June 10."
+            },
+            {
+                "role": "chatbot",
+                "content": "Let me check... Good news! A senior citizen discount is available for your flight. You can apply it while booking by selecting 'Senior Discount'."
+            },
+            {
+                "role": "user",
+                "content": "That’s great! Do I need to provide any documents?"
+            },
+            {
+                "role": "chatbot",
+                "content": "Yes, you will need to present a valid ID proving your age at check-in."
+            },
+            {
+                "role": "user",
+                "content": "Okay, thanks for the help!"
+            },
+            {
+                "role": "chatbot",
+                "content": "You're welcome! Let me know if you need anything else. Have a great flight!"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Hey, do you have any discounts for military personnel?"
+            },
+            {
+                "role": "chatbot",
+                "content": "Hello! Yes, we offer exclusive discounts for active and retired military personnel. Would you like to book a flight now?"
+            },
+            {
+                "role": "user",
+                "content": "Yes, I’m flying from Seattle to Chicago on July 4."
+            },
+            {
+                "role": "chatbot",
+                "content": "That’s a great choice! A military discount is available for your flight. You can select the ‘Military Discount’ option while booking."
+            },
+            {
+                "role": "user",
+                "content": "Do I need to show any documents?"
+            },
+            {
+                "role": "chatbot",
+                "content": "Yes, you will need to present a valid military ID at check-in to avail the discount."
+            },
+            {
+                "role": "user",
+                "content": "Got it! I’ll book my ticket now. Thanks!"
+            },
+            {
+                "role": "chatbot",
+                "content": "You're welcome! Thank you for your service, and have a safe flight!"
+            }
+        ]
+    }
+]

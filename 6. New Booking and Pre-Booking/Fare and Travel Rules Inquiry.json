@@ -1,0 +1,166 @@
+[
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Hi, can you tell me if economy class tickets are refundable?"
+            },
+            {
+                "role": "chatbot",
+                "content": "Hello! Economy class refundability depends on the type of fare purchased. Basic economy tickets are usually non-refundable, while flexible economy tickets may be refundable with a cancellation fee. Would you like me to check your specific booking?"
+            },
+            {
+                "role": "user",
+                "content": "I haven’t booked yet, but I want to know before I purchase."
+            },
+            {
+                "role": "chatbot",
+                "content": "I see! If you want a refundable economy ticket, look for 'Flexible Economy' during booking. Let me know if you need help choosing the right fare."
+            },
+            {
+                "role": "user",
+                "content": "Thanks! I’ll check the options."
+            },
+            {
+                "role": "chatbot",
+                "content": "You're welcome! Let me know if you have any other questions. Safe travels!"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Hello, what are the baggage rules for international flights?"
+            },
+            {
+                "role": "chatbot",
+                "content": "Hi! Baggage allowances vary depending on your route and ticket type. Could you share your departure and destination cities?"
+            },
+            {
+                "role": "user",
+                "content": "I’m flying from New York to London."
+            },
+            {
+                "role": "chatbot",
+                "content": "For economy class on this route, you are allowed one checked bag up to 23kg (50 lbs) and one carry-on bag. Business and first-class passengers may carry additional luggage. Would you like to check excess baggage fees?"
+            },
+            {
+                "role": "user",
+                "content": "Yes, how much is the fee for an extra bag?"
+            },
+            {
+                "role": "chatbot",
+                "content": "The fee for an extra checked bag on your route is $100 if booked online in advance and $120 at the airport."
+            },
+            {
+                "role": "user",
+                "content": "Got it! Thanks for the info."
+            },
+            {
+                "role": "chatbot",
+                "content": "You're welcome! Let me know if you need further assistance. Have a great trip!"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Hi, is there a fee for changing my travel dates?"
+            },
+            {
+                "role": "chatbot",
+                "content": "Hello! Change fees depend on your ticket type. Some fares allow free changes, while others may have a fee. Could you share your booking details?"
+            },
+            {
+                "role": "user",
+                "content": "I booked an economy ticket from Los Angeles to Chicago."
+            },
+            {
+                "role": "chatbot",
+                "content": "Let me check… Standard economy tickets on this route have a $75 change fee plus any difference in fare. However, if you booked a flexible fare, you can change your flight without a fee."
+            },
+            {
+                "role": "user",
+                "content": "Okay, I’ll decide and get back to you."
+            },
+            {
+                "role": "chatbot",
+                "content": "No problem! Let me know if you need help rebooking. Safe travels!"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Hi, do you allow pets on board?"
+            },
+            {
+                "role": "chatbot",
+                "content": "Hello! Yes, small pets are allowed in the cabin on most flights, while larger pets must travel in the cargo hold. Could you provide details about your pet?"
+            },
+            {
+                "role": "user",
+                "content": "I have a small dog. Can I bring it in the cabin with me?"
+            },
+            {
+                "role": "chatbot",
+                "content": "Small dogs that fit in an airline-approved carrier under the seat are allowed in the cabin. A pet travel fee applies, and reservations are required as space is limited."
+            },
+            {
+                "role": "user",
+                "content": "How much is the fee?"
+            },
+            {
+                "role": "chatbot",
+                "content": "The in-cabin pet fee is $125 per flight. Would you like to add your pet to your reservation now?"
+            },
+            {
+                "role": "user",
+                "content": "Not yet. I need to check the carrier dimensions first."
+            },
+            {
+                "role": "chatbot",
+                "content": "Sounds good! The maximum carrier size allowed is 18x11x11 inches. Let me know if you need further assistance!"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Hi, do you charge extra for seat selection?"
+            },
+            {
+                "role": "chatbot",
+                "content": "Hello! Seat selection fees depend on your ticket type. Standard economy passengers may need to pay extra for preferred seats, while business and first-class passengers can choose seats for free. Would you like me to check for your specific flight?"
+            },
+            {
+                "role": "user",
+                "content": "Yes, I booked an economy ticket from Miami to San Francisco."
+            },
+            {
+                "role": "chatbot",
+                "content": "For your flight, standard seat selection is free, but preferred seats with extra legroom start at $25. Would you like to see available options?"
+            },
+            {
+                "role": "user",
+                "content": "Yes, I prefer an aisle seat with extra legroom."
+            },
+            {
+                "role": "chatbot",
+                "content": "I found an aisle seat with extra legroom for $30. Would you like to proceed with the selection?"
+            },
+            {
+                "role": "user",
+                "content": "Yes, please reserve it for me."
+            },
+            {
+                "role": "chatbot",
+                "content": "Done! Your seat has been reserved. You'll see it on your boarding pass. Let me know if you need anything else!"
+            }
+        ]
+    }
+]

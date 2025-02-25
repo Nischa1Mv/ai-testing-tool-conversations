@@ -1,0 +1,210 @@
+[
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Hi, I need to check if my ticket is eligible for a refund."
+            },
+            {
+                "role": "chatbot",
+                "content": "Hello! I'd be happy to help. Could you please provide your booking reference number?"
+            },
+            {
+                "role": "user",
+                "content": "Sure, it's ABC123."
+            },
+            {
+                "role": "chatbot",
+                "content": "Thank you. Let me check the refund eligibility for your ticket."
+            },
+            {
+                "role": "chatbot",
+                "content": "Your ticket is eligible for a refund. Would you like to proceed with the refund process?"
+            },
+            {
+                "role": "user",
+                "content": "Yes, please proceed."
+            },
+            {
+                "role": "chatbot",
+                "content": "I've initiated the refund process. You should receive a confirmation email shortly. Is there anything else I can assist you with?"
+            },
+            {
+                "role": "user",
+                "content": "No, that's all. Thank you for your help!"
+            },
+            {
+                "role": "chatbot",
+                "content": "You're welcome! If you have any more questions, feel free to reach out. Have a great day!"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Can you tell me if I can get a refund for my flight?"
+            },
+            {
+                "role": "chatbot",
+                "content": "Of course! Could you please provide your flight number or booking reference?"
+            },
+            {
+                "role": "user",
+                "content": "The booking reference is XYZ789."
+            },
+            {
+                "role": "chatbot",
+                "content": "Thank you. I'll check the refund policy for your ticket."
+            },
+            {
+                "role": "chatbot",
+                "content": "Unfortunately, your ticket is non-refundable. However, you may be eligible for a travel credit. Would you like more information on that?"
+            },
+            {
+                "role": "user",
+                "content": "Yes, I'd like to know more about the travel credit."
+            },
+            {
+                "role": "chatbot",
+                "content": "Travel credits can be used for future bookings with us and are valid for one year from the date of issue. You can apply the credit when booking a new flight."
+            },
+            {
+                "role": "user",
+                "content": "Thank you for the information."
+            },
+            {
+                "role": "chatbot",
+                "content": "You're welcome! If you need further assistance, just let me know."
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "I need to know if my flight is refundable."
+            },
+            {
+                "role": "chatbot",
+                "content": "I'd be glad to assist you. Could you provide your booking reference number, please?"
+            },
+            {
+                "role": "user",
+                "content": "It's LMN456."
+            },
+            {
+                "role": "chatbot",
+                "content": "Thank you. Let me look up the refund eligibility for your booking."
+            },
+            {
+                "role": "chatbot",
+                "content": "Your ticket is partially refundable. A cancellation fee will apply if you choose to proceed. Would you like to know more about the fee?"
+            },
+            {
+                "role": "user",
+                "content": "Yes, what is the cancellation fee?"
+            },
+            {
+                "role": "chatbot",
+                "content": "The cancellation fee is $75. Would you like to proceed with the refund process?"
+            },
+            {
+                "role": "user",
+                "content": "Yes, please go ahead with the refund."
+            },
+            {
+                "role": "chatbot",
+                "content": "The refund process has been initiated. You will receive a confirmation email shortly. Is there anything else I can assist you with?"
+            },
+            {
+                "role": "user",
+                "content": "No, thank you for your help!"
+            },
+            {
+                "role": "chatbot",
+                "content": "You're welcome! Feel free to reach out if you have any more questions. Have a great day!"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Can I get a refund on my ticket?"
+            },
+            {
+                "role": "chatbot",
+                "content": "Hello! Could you please provide your booking reference number so I can check the refund eligibility for your ticket?"
+            },
+            {
+                "role": "user",
+                "content": "It's QRS123."
+            },
+            {
+                "role": "chatbot",
+                "content": "Thank you. Let me verify the refund status for your booking."
+            },
+            {
+                "role": "chatbot",
+                "content": "Your ticket is eligible for a full refund. Would you like to proceed with the refund process?"
+            },
+            {
+                "role": "user",
+                "content": "Yes, please proceed with the refund."
+            },
+            {
+                "role": "chatbot",
+                "content": "I've initiated the refund process for you. You will receive a confirmation email shortly. Is there anything else I can assist you with?"
+            },
+            {
+                "role": "user",
+                "content": "No, that's all. Thank you so much!"
+            },
+            {
+                "role": "chatbot",
+                "content": "You're welcome! If you have any more questions, feel free to reach out. Have a wonderful day!"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Hi, how can I check if my flight is eligible for a refund?"
+            },
+            {
+                "role": "chatbot",
+                "content": "Hello! To check your refund eligibility, please provide your booking reference number."
+            },
+            {
+                "role": "user",
+                "content": "My booking reference is TUV789."
+            },
+            {
+                "role": "chatbot",
+                "content": "Thank you. I'll check the details for you now."
+            },
+            {
+                "role": "chatbot",
+                "content": "It looks like your ticket is non-refundable, but you may be eligible for a travel voucher. Would you like more information about that?"
+            },
+            {
+                "role": "user",
+                "content": "Yes, please tell me more about the travel voucher."
+            },
+            {
+                "role": "chatbot",
+                "content": "The travel voucher can be used for future bookings with us and is valid for one year from the date of issue. You can apply it when booking a new flight."
+            },
+            {
+                "role": "user",
+                "content": "Thank you for the information."
+            },
+            {
+                "role": "chatbot",
+                "content": "You're welcome! If you have any more questions or need further assistance, feel free to ask. Have a great day!"
+            }
+        ]
+    }
+]

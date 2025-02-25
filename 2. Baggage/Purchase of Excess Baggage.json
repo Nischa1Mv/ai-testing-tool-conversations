@@ -1,0 +1,130 @@
+[  
+    {  
+        "conversation": [  
+            {  
+                "user": "Hello, I need to purchase excess baggage for my upcoming flight.",  
+                "chatbot": "Hi there! I'd be happy to assist you with that. Can you please provide your booking reference number?"  
+            },  
+            {  
+                "user": "Sure, it's ABC123.",  
+                "chatbot": "Thank you. I see your booking. Could you tell me how much extra baggage you would like to purchase?"  
+            },  
+            {  
+                "user": "I need an additional 10 kilograms.",  
+                "chatbot": "Alright. For an additional 10 kilograms, the charge will be $50. Would you like to proceed with the purchase?"  
+            },  
+            {  
+                "user": "Yes, please go ahead.",  
+                "chatbot": "Great! I have added 10 kilograms of extra baggage to your booking. You will receive a confirmation email shortly. Is there anything else I can help you with?"  
+            },  
+            {  
+                "user": "No, that's all. Thank you!",  
+                "chatbot": "You're welcome! Have a wonderful trip!"  
+            }  
+        ]  
+    },  
+    {  
+        "conversation": [  
+            {  
+                "user": "Hi, I want to add some extra baggage to my flight.",  
+                "chatbot": "Hello! I'd be glad to help. Could you please provide your flight details or booking reference number?"  
+            },  
+            {  
+                "user": "My booking reference is XYZ789.",  
+                "chatbot": "Thank you for the details. How much extra baggage do you need to add?"  
+            },  
+            {  
+                "user": "I think I need about 15 more kilograms.",  
+                "chatbot": "For an additional 15 kilograms, the fee will be $75. Would you like to confirm this purchase?"  
+            },  
+            {  
+                "user": "Actually, can you tell me if it's cheaper to purchase online in advance or at the airport?",  
+                "chatbot": "Sure! It's generally more cost-effective to purchase excess baggage online in advance. Prices at the airport can be higher."  
+            },  
+            {  
+                "user": "Alright, please add the 15 kilograms now.",  
+                "chatbot": "Done! You will receive a confirmation email soon. If you need further assistance, feel free to ask!"  
+            },  
+            {  
+                "user": "Thanks for your help!",  
+                "chatbot": "Anytime! Safe travels!"  
+            }  
+        ]  
+    } ,
+        {  
+            "conversation": [  
+                {  
+                    "user": "Hello, I need to find out how much it would cost to add extra baggage.",  
+                    "chatbot": "Hi there! I can help with that. Could you provide your booking reference number or flight details?"  
+                },  
+                {  
+                    "user": "My booking reference is LMN456.",  
+                    "chatbot": "Thank you. Let me check that for you. How much additional baggage are you planning to add?"  
+                },  
+                {  
+                    "user": "I'm planning to add 20 kilograms.",  
+                    "chatbot": "For 20 kilograms of extra baggage, the cost will be $100. Would you like to proceed with this?"  
+                },  
+                {  
+                    "user": "Yes, please add it to my booking.",  
+                    "chatbot": "I've successfully added the extra baggage to your booking. A confirmation email will be sent to you shortly. Is there anything else I can assist you with?"  
+                },  
+                {  
+                    "user": "No, that's all for now. Thank you!",  
+                    "chatbot": "You're welcome! Have a great flight!"  
+                }  
+            ]  
+        },  
+        {  
+            "conversation": [  
+                {  
+                    "user": "Hi, I'm considering adding extra baggage to my flight. Can you help?",  
+                    "chatbot": "Hello! Of course, I can help with that. Could you provide your booking reference number?"  
+                },  
+                {  
+                    "user": "The reference number is QRS321.",  
+                    "chatbot": "Thanks! How many extra kilograms are you looking to purchase?"  
+                },  
+                {  
+                    "user": "I need an extra 5 kilograms.",  
+                    "chatbot": "The charge for an additional 5 kilograms is $25. Would you like to go ahead with the purchase?"  
+                },  
+                {  
+                    "user": "Before I decide, can you tell me if I can change the extra baggage later if needed?",  
+                    "chatbot": "Certainly! You can modify your baggage purchase up to 24 hours before your flight's departure time."  
+                },  
+                {  
+                    "user": "Great, please add the 5 kilograms for now.",  
+                    "chatbot": "Done! I've added the extra baggage to your booking. You'll receive an email confirmation shortly. Let me know if you need further assistance!"  
+                },  
+                {  
+                    "user": "Thank you for the help!",  
+                    "chatbot": "You're welcome! Have a pleasant journey!"  
+                }  
+            ]  
+        },  
+        {  
+            "conversation": [  
+                {  
+                    "user": "Hey, I need to add more baggage to my flight.",  
+                    "chatbot": "Hello! I can assist you with that. Could you please provide your booking reference number?"  
+                },  
+                {  
+                    "user": "It's TUV654.",  
+                    "chatbot": "Thank you. How much extra baggage would you like to purchase?"  
+                },  
+                {  
+                    "user": "I want to add 12 kilograms.",  
+                    "chatbot": "The cost for an additional 12 kilograms is $60. Would you like me to add this to your booking?"  
+                },  
+                {  
+                    "user": "Yes, please proceed.",  
+                    "chatbot": "Great! The extra baggage has been added to your booking. You'll receive a confirmation email soon. Is there anything else you'd like to know?"  
+                },  
+                {  
+                    "user": "No, that's everything. Thanks!",  
+                    "chatbot": "You're welcome! Enjoy your trip!"  
+                }  
+            ]  
+        }  
+    ]  

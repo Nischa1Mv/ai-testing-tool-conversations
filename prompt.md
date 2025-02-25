@@ -1,0 +1,1 @@
+give conversation examples in form of JSON btw chatbot of a airlines and user , make sure to tackle all the types of the given situation , make sure to give 2 or more converastions , i have to feed this data to openai library

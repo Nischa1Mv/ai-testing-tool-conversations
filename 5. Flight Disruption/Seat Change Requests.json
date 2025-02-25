@@ -1,0 +1,202 @@
+[
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Hi, I would like to change my seat to a window seat. Is that possible?"
+            },
+            {
+                "role": "chatbot",
+                "content": "Hello! I can help you with that. Could you please provide your booking reference number?"
+            },
+            {
+                "role": "user",
+                "content": "Sure, my booking reference is ABC123."
+            },
+            {
+                "role": "chatbot",
+                "content": "Thank you. Let me check the availability of window seats for your flight."
+            },
+            {
+                "role": "chatbot",
+                "content": "Good news! There is a window seat available. Would you like me to change your seat to that one?"
+            },
+            {
+                "role": "user",
+                "content": "Yes, please do that."
+            },
+            {
+                "role": "chatbot",
+                "content": "Your seat has been successfully changed to a window seat. Is there anything else I can help you with?"
+            },
+            {
+                "role": "user",
+                "content": "No, that's all. Thank you!"
+            },
+            {
+                "role": "chatbot",
+                "content": "You're welcome! Have a great flight!"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Hello, I am traveling with my family and we are not seated together. Can we change seats to sit together?"
+            },
+            {
+                "role": "chatbot",
+                "content": "Hi! Let me check the seating arrangements and see if I can help you with that. Could you please provide your booking reference number?"
+            },
+            {
+                "role": "user",
+                "content": "Our reference number is DEF456."
+            },
+            {
+                "role": "chatbot",
+                "content": "Thank you. Let me check the current seating availability."
+            },
+            {
+                "role": "chatbot",
+                "content": "I found a row where all of you can sit together. Would you like me to change your seats to that row?"
+            },
+            {
+                "role": "user",
+                "content": "Yes, that would be great!"
+            },
+            {
+                "role": "chatbot",
+                "content": "Your seats have been changed so you can sit together. Is there anything else I can assist you with?"
+            },
+            {
+                "role": "user",
+                "content": "No, that's perfect. Thank you very much!"
+            },
+            {
+                "role": "chatbot",
+                "content": "You're welcome! Enjoy your flight with your family!"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Hi, I prefer an aisle seat. Can I change my current seat to an aisle seat?"
+            },
+            {
+                "role": "chatbot",
+                "content": "Hello! Let me check if there are any aisle seats available on your flight. Could you please provide your booking reference number?"
+            },
+            {
+                "role": "user",
+                "content": "My reference number is GHI789."
+            },
+            {
+                "role": "chatbot",
+                "content": "Thank you. I’m checking the seat availability for an aisle seat."
+            },
+            {
+                "role": "chatbot",
+                "content": "There is an aisle seat available. Would you like me to change your seat to that one?"
+            },
+            {
+                "role": "user",
+                "content": "Yes, I would appreciate that."
+            },
+            {
+                "role": "chatbot",
+                "content": "Your seat has been successfully changed to an aisle seat. Is there anything else I can assist you with?"
+            },
+            {
+                "role": "user",
+                "content": "No, that's all. Thanks for the help!"
+            },
+            {
+                "role": "chatbot",
+                "content": "You're welcome! Have a comfortable flight!"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Hello, I accidentally selected the wrong seat and would like to change it. Can you help?"
+            },
+            {
+                "role": "chatbot",
+                "content": "Hi there! I can assist you with that. Could you please provide your booking reference number?"
+            },
+            {
+                "role": "user",
+                "content": "The reference number is JKL012."
+            },
+            {
+                "role": "chatbot",
+                "content": "Thank you. I’ll look into the available seats for your flight."
+            },
+            {
+                "role": "chatbot",
+                "content": "There are several options available. Would you prefer a window, middle, or aisle seat?"
+            },
+            {
+                "role": "user",
+                "content": "I would like a window seat, please."
+            },
+            {
+                "role": "chatbot",
+                "content": "I've changed your seat to a window seat. Is there anything else you need help with?"
+            },
+            {
+                "role": "user",
+                "content": "No, that was it. Thank you very much!"
+            },
+            {
+                "role": "chatbot",
+                "content": "You're welcome! Enjoy your flight with a great view!"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Hi, I noticed my seat is near the restroom. Can I change it to a quieter location?"
+            },
+            {
+                "role": "chatbot",
+                "content": "Hello! Let me check if there are quieter seats available. Could you please share your booking reference number with me?"
+            },
+            {
+                "role": "user",
+                "content": "My reference number is MNO345."
+            },
+            {
+                "role": "chatbot",
+                "content": "Thank you. I’m reviewing the seating chart for a quieter location."
+            },
+            {
+                "role": "chatbot",
+                "content": "I found a seat in a quieter section of the cabin. Would you like me to change your seat to that one?"
+            },
+            {
+                "role": "user",
+                "content": "Yes, that would be much appreciated. Thank you."
+            },
+            {
+                "role": "chatbot",
+                "content": "Your seat has been successfully changed to a quieter location. Is there anything else I can assist you with?"
+            },
+            {
+                "role": "user",
+                "content": "No, that's all. Thank you for your help!"
+            },
+            {
+                "role": "chatbot",
+                "content": "You're welcome! Enjoy your flight in peace!"
+            }
+        ]
+    }
+]

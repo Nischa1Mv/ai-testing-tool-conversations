@@ -1,0 +1,142 @@
+[
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Hi, I would like to check my miles balance."
+            },
+            {
+                "role": "chatbot",
+                "content": "Hello! Could you please provide your membership ID or email address associated with your account?"
+            },
+            {
+                "role": "user",
+                "content": "Sure, my membership ID is 123456789."
+            },
+            {
+                "role": "chatbot",
+                "content": "Thank you! Your current miles balance is 15,000 miles."
+            },
+            {
+                "role": "user",
+                "content": "Great! When do my miles expire?"
+            },
+            {
+                "role": "chatbot",
+                "content": "Your miles are set to expire on December 31, 2024. Make sure to use them before then!"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Hey, can you tell me how many miles I have left?"
+            },
+            {
+                "role": "chatbot",
+                "content": "Of course! May I have your account number or email address?"
+            },
+            {
+                "role": "user",
+                "content": "My email is user@example.com."
+            },
+            {
+                "role": "chatbot",
+                "content": "Thanks for the information. You have 8,500 miles remaining in your account."
+            },
+            {
+                "role": "user",
+                "content": "Do you know when they'll expire?"
+            },
+            {
+                "role": "chatbot",
+                "content": "Your miles will expire on June 30, 2025. Let us know if you need any help planning your next trip!"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "I'd like to see my miles balance."
+            },
+            {
+                "role": "chatbot",
+                "content": "Sure thing! Can you provide your frequent flyer number or registered email?"
+            },
+            {
+                "role": "user",
+                "content": "My frequent flyer number is ABC123."
+            },
+            {
+                "role": "chatbot",
+                "content": "Got it! You currently have 20,000 miles."
+            },
+            {
+                "role": "user",
+                "content": "Awesome! When do they expire?"
+            },
+            {
+                "role": "chatbot",
+                "content": "Your miles will not expire as long as there's activity in your account at least once every 18 months."
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Can you check my miles balance and expiry date?"
+            },
+            {
+                "role": "chatbot",
+                "content": "Certainly! Please provide your membership ID or email address."
+            },
+            {
+                "role": "user",
+                "content": "Email: anotheruser@example.com."
+            },
+            {
+                "role": "chatbot",
+                "content": "Thank you. Your account shows a balance of 5,000 miles."
+            },
+            {
+                "role": "user",
+                "content": "And when do they expire?"
+            },
+            {
+                "role": "chatbot",
+                "content": "Your miles will expire on March 31, 2023. You might want to use them soon!"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "How many miles do I have, and are they expiring soon?"
+            },
+            {
+                "role": "chatbot",
+                "content": "Certainly! Can you provide your membership number or registered email?"
+            },
+            {
+                "role": "user",
+                "content": "My membership number is 987654321."
+            },
+            {
+                "role": "chatbot",
+                "content": "Thank you. Your current balance is 12,000 miles."
+            },
+            {
+                "role": "user",
+                "content": "What about their expiry date?"
+            },
+            {
+                "role": "chatbot",
+                "content": "Your miles are due to expire on September 30, 2024. Make sure to use them before the expiry date!"
+            }
+        ]
+    }
+]

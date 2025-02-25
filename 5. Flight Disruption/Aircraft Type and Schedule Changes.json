@@ -1,0 +1,190 @@
+[
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Hi, I noticed my flight details have changed. Can you tell me if the aircraft type has also changed?"
+            },
+            {
+                "role": "chatbot",
+                "content": "Hello! Let me check the details for you. Could you please provide your booking reference number?"
+            },
+            {
+                "role": "user",
+                "content": "Sure, it's DEF123."
+            },
+            {
+                "role": "chatbot",
+                "content": "Thank you. I see that there has been a schedule change for your flight, but the aircraft type remains the same. Is there anything else you need help with?"
+            },
+            {
+                "role": "user",
+                "content": "What should I do if the new schedule doesn't work for me?"
+            },
+            {
+                "role": "chatbot",
+                "content": "If the new schedule is inconvenient, you can either rebook to a different flight or request a full refund. Please let me know how you would like to proceed."
+            },
+            {
+                "role": "user",
+                "content": "I'd like to rebook. Can I do it through you?"
+            },
+            {
+                "role": "chatbot",
+                "content": "Absolutely! Please let me know your preferred date and time, and I will assist you with the rebooking process."
+            },
+            {
+                "role": "user",
+                "content": "Thank you, I'll get back to you soon."
+            },
+            {
+                "role": "chatbot",
+                "content": "You're welcome! Feel free to reach out when you're ready. Have a great day!"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Hello, can you tell me if there are any changes to the aircraft type for my upcoming flight?"
+            },
+            {
+                "role": "chatbot",
+                "content": "Hi! I’d be happy to help. Could you please provide your booking reference number?"
+            },
+            {
+                "role": "user",
+                "content": "My booking reference is GHI456."
+            },
+            {
+                "role": "chatbot",
+                "content": "Thank you. I see that the aircraft type for your flight has been updated to a larger model to accommodate more passengers. Your schedule remains unchanged. Is there anything else you’d like to know?"
+            },
+            {
+                "role": "user",
+                "content": "Will this affect my seat assignment?"
+            },
+            {
+                "role": "chatbot",
+                "content": "Your seat assignment may have changed due to the aircraft swap. You can view and adjust your seat selection through our website or mobile app. Would you like assistance with that?"
+            },
+            {
+                "role": "user",
+                "content": "I'll check it myself, thanks."
+            },
+            {
+                "role": "chatbot",
+                "content": "You're welcome! If you need any more help, feel free to contact us. Have a great day!"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Hi, I received a notification about a schedule change for my flight. Is the aircraft type different now?"
+            },
+            {
+                "role": "chatbot",
+                "content": "Hello! Let me verify that information for you. Can you please provide your booking reference number?"
+            },
+            {
+                "role": "user",
+                "content": "Yes, it's JKL789."
+            },
+            {
+                "role": "chatbot",
+                "content": "Thank you. I checked your flight details, and the aircraft type has indeed changed to a newer model. The new schedule reflects this update. Is there anything specific you would like to know about the aircraft?"
+            },
+            {
+                "role": "user",
+                "content": "Does the new aircraft have more legroom?"
+            },
+            {
+                "role": "chatbot",
+                "content": "Yes, the new aircraft model features additional legroom in all classes, along with other modern amenities. Would you like assistance with anything else?"
+            },
+            {
+                "role": "user",
+                "content": "That's great to hear. No, that's all for now. Thank you!"
+            },
+            {
+                "role": "chatbot",
+                "content": "You're welcome! If you have any more questions in the future, feel free to reach out. Have a pleasant day!"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Hello, I heard there might be a change in the aircraft type for my flight. Can you confirm this?"
+            },
+            {
+                "role": "chatbot",
+                "content": "Hi there! I can certainly check that for you. Could you provide your booking reference number, please?"
+            },
+            {
+                "role": "user",
+                "content": "Sure, my booking reference is MNO123."
+            },
+            {
+                "role": "chatbot",
+                "content": "Thank you. After checking your reservation, I see that the aircraft type has been updated to a more modern model. The schedule remains the same. Is there anything else you need to know about the change?"
+            },
+            {
+                "role": "user",
+                "content": "Does the change affect my boarding time?"
+            },
+            {
+                "role": "chatbot",
+                "content": "No, the boarding time remains unchanged. However, it's always a good idea to arrive at the airport early in case of any last-minute updates. Do you need help with anything else?"
+            },
+            {
+                "role": "user",
+                "content": "No, that answers my question. Thank you!"
+            },
+            {
+                "role": "chatbot",
+                "content": "You're welcome! Feel free to contact us if you have more questions. Have a safe flight!"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Hi, can you tell me if the aircraft type for my flight has changed due to the recent schedule update?"
+            },
+            {
+                "role": "chatbot",
+                "content": "Hello! I'd be happy to check that for you. Could you please provide your booking reference number?"
+            },
+            {
+                "role": "user",
+                "content": "It's PQR456."
+            },
+            {
+                "role": "chatbot",
+                "content": "Thank you for the information. I see that the aircraft type has been changed to a different model to better suit the updated schedule. The new model offers enhanced features for a more comfortable journey. Is there anything specific you would like to know?"
+            },
+            {
+                "role": "user",
+                "content": "How will the change in aircraft type affect my in-flight experience?"
+            },
+            {
+                "role": "chatbot",
+                "content": "The new aircraft offers improved in-flight entertainment options and more comfortable seating arrangements. You may also find upgraded cabin features. Would you like assistance with anything else?"
+            },
+            {
+                "role": "user",
+                "content": "No, that's good to know. Thanks for the info!"
+            },
+            {
+                "role": "chatbot",
+                "content": "You're welcome! If you need further assistance, don't hesitate to reach out. Have a great flight!"
+            }
+        ]
+    }
+]

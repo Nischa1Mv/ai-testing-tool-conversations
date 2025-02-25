@@ -1,0 +1,121 @@
+[
+    {
+        "scenario": "Voluntary Cancellation - Full Refund",
+        "conversation": [
+            {
+                "user": "Hi, I need to cancel my flight and would like a full refund. Can you help me with that?",
+                "chatbot": "Hello! I can assist you with the cancellation. Could you please provide your booking reference number?"
+            },
+            {
+                "user": "Sure, it's ABC123.",
+                "chatbot": "Thank you. I see your flight is eligible for a full refund. Would you like me to proceed with the cancellation?"
+            },
+            {
+                "user": "Yes, please go ahead.",
+                "chatbot": "Your flight has been successfully canceled, and the refund will be processed to your original payment method within 5-7 business days. Is there anything else I can assist you with?"
+            },
+            {
+                "user": "No, that's all. Thank you!",
+                "chatbot": "You're welcome! Have a great day."
+            }
+        ]
+    },
+    {
+        "scenario": "Voluntary Cancellation - Non-refundable Ticket",
+        "conversation": [
+            {
+                "user": "Hi, I'd like to cancel my flight. Can I get a refund?",
+                "chatbot": "Hello! I can check that for you. Could you please provide your booking reference number?"
+            },
+            {
+                "user": "It's XYZ789.",
+                "chatbot": "Thank you. I see that your ticket is non-refundable, but you may be eligible for a travel credit. Would you like to proceed with the cancellation for a travel credit?"
+            },
+            {
+                "user": "Yes, that's fine. I'll take the travel credit.",
+                "chatbot": "Great! Your flight has been canceled. A travel credit has been issued to your account, valid for one year from today. Is there anything else I can assist you with?"
+            },
+            {
+                "user": "No, that's it. Thanks!",
+                "chatbot": "You're welcome! Have a nice day."
+            }
+        ]
+    },
+    {
+        "scenario": "Rebooking a Flight",
+        "conversation": [
+            {
+                "user": "Hi, I need to rebook my flight to a different date. Can you help me with that?",
+                "chatbot": "Hello! I’d be happy to assist with rebooking. Could you please provide your booking reference number?"
+            },
+            {
+                "user": "It's LMN456.",
+                "chatbot": "Thank you. I see your current booking. Could you please let me know the new date you would like to travel?"
+            },
+            {
+                "user": "I would like to travel on December 15th instead.",
+                "chatbot": "Let me check the availability for you. One moment, please."
+            },
+            {
+                "chatbot": "There is availability on December 15th. Would you like to proceed with rebooking? Please note that there may be a fare difference or change fee applicable.",
+                "user": "Yes, please rebook it for me."
+            },
+            {
+                "chatbot": "Your flight has been successfully rebooked for December 15th. You will receive a confirmation email shortly. Is there anything else I can assist you with?",
+                "user": "No, that's all. Thank you so much!"
+            },
+            {
+                "chatbot": "You're welcome! Have a great day and safe travels!"
+            }
+        ]
+    },
+    {
+        "scenario": "Voluntary Cancellation - Refund with Cancellation Fee",
+        "conversation": [
+            {
+                "user": "Hi, I need to cancel my flight and get a refund.",
+                "chatbot": "Hello! I can help you with that. Could you please provide your booking reference number?"
+            },
+            {
+                "user": "It's DEF456.",
+                "chatbot": "Thank you. I see that your ticket is eligible for a refund, but there is a cancellation fee of $50. Would you like to proceed with the cancellation?"
+            },
+            {
+                "user": "Yes, please proceed.",
+                "chatbot": "Your flight has been canceled, and the refund, minus the cancellation fee, will be processed to your original payment method within 5-7 business days. Is there anything else I can assist you with?"
+            },
+            {
+                "user": "No, that's it. Thanks for your help!",
+                "chatbot": "You're welcome! Have a great day."
+            }
+        ]
+    },
+    {
+        "scenario": "Rebooking with Upgrade Request",
+        "conversation": [
+            {
+                "user": "Hi, I need to rebook my flight and was wondering if I could upgrade my seat?",
+                "chatbot": "Hello! I’d be happy to help with the rebooking and upgrade. Could you please provide your booking reference number?"
+            },
+            {
+                "user": "It's GHI123.",
+                "chatbot": "Thank you. I see your current booking. What date would you like to rebook for?"
+            },
+            {
+                "user": "I want to travel on January 10th.",
+                "chatbot": "Let me check availability for you. One moment, please."
+            },
+            {
+                "chatbot": "There are seats available on January 10th, including options for an upgrade. Would you like to proceed with rebooking and upgrading your seat?",
+                "user": "Yes, I’d like to upgrade to business class, please."
+            },
+            {
+                "chatbot": "Your flight has been successfully rebooked for January 10th, with an upgrade to business class. You will receive a confirmation email shortly. Is there anything else I can assist you with?",
+                "user": "No, that's all. Thank you so much!"
+            },
+            {
+                "chatbot": "You're welcome! Have a wonderful day and enjoy your upgraded experience!"
+            }
+        ]
+    }
+]  

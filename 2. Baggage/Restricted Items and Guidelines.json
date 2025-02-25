@@ -1,0 +1,110 @@
+[
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Hi, can I bring a pocket knife in my carry-on luggage?"
+            },
+            {
+                "role": "chatbot",
+                "content": "Hello! Unfortunately, pocket knives are not allowed in carry-on luggage. You can pack them in your checked baggage instead."
+            },
+            {
+                "role": "user",
+                "content": "What about a lighter? Can I carry that with me?"
+            },
+            {
+                "role": "chatbot",
+                "content": "You can bring one lighter in your carry-on baggage, but it must be kept on your person. Please ensure it is a disposable or Zippo-type lighter."
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Are there any restrictions on carrying liquids in my hand luggage?"
+            },
+            {
+                "role": "chatbot",
+                "content": "Yes, liquids in your carry-on must be in containers of 100ml or less and fit in a single, transparent, resealable plastic bag not exceeding 1 liter. Each passenger is limited to one plastic bag."
+            },
+            {
+                "role": "user",
+                "content": "Can I bring my medication in liquid form?"
+            },
+            {
+                "role": "chatbot",
+                "content": "Yes, you can bring necessary medications in liquid form. It’s best to declare them at the security checkpoint. You may need to provide proof of prescription."
+            },
+            {
+                "role": "user",
+                "content": "Thanks for the information!"
+            },
+            {
+                "role": "chatbot",
+                "content": "You're welcome! If you have any more questions, feel free to ask. Safe travels!"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Can I bring my own snacks on the plane?"
+            },
+            {
+                "role": "chatbot",
+                "content": "Yes, you can bring your own snacks on the plane. Just make sure they comply with any local regulations regarding agricultural products if you're traveling internationally."
+            },
+            {
+                "role": "user",
+                "content": "What about drinks? Can I bring a bottle of water?"
+            },
+            {
+                "role": "chatbot",
+                "content": "You can bring an empty water bottle through security and fill it up after passing through. Liquids over 100ml are not allowed through security in your carry-on."
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Are power banks allowed in my luggage?"
+            },
+            {
+                "role": "chatbot",
+                "content": "Power banks are allowed, but they must be carried in your carry-on luggage, not in checked baggage. Also, ensure the power bank is within the airline's watt-hour limits."
+            },
+            {
+                "role": "user",
+                "content": "Is there a limit to how many I can bring?"
+            },
+            {
+                "role": "chatbot",
+                "content": "Yes, generally you can carry two power banks with a capacity between 100Wh and 160Wh, or as many as you need below 100Wh. Check with your specific airline for their policy."
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Can I carry my drone with me on the flight?"
+            },
+            {
+                "role": "chatbot",
+                "content": "You can bring a drone in your carry-on luggage, but it's best to check with your airline regarding their specific policies. Ensure the batteries are also carried in your hand luggage."
+            },
+            {
+                "role": "user",
+                "content": "Are there any restrictions on the drone batteries?"
+            },
+            {
+                "role": "chatbot",
+                "content": "Yes, drone batteries must be carried in your carry-on, and they should comply with the airline's watt-hour restrictions for lithium batteries. Typically, batteries under 100Wh are allowed without restrictions."
+            }
+        ]
+    }
+]

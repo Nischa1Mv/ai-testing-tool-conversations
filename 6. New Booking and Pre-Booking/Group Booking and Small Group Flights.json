@@ -1,0 +1,190 @@
+[
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Hi, I want to book a flight for a group of 8 people. Do you offer any group discounts?"
+            },
+            {
+                "role": "chatbot",
+                "content": "Hello! Yes, we offer special fares for small group bookings. Could you please provide the departure and destination cities along with the travel date?"
+            },
+            {
+                "role": "user",
+                "content": "We’re flying from New York to Los Angeles on March 15."
+            },
+            {
+                "role": "chatbot",
+                "content": "Got it! We have multiple flights available on that date. Group discounts usually apply for 10 or more passengers, but I can check if there are any special offers for your group. Would you like assistance with seat selection as well?"
+            },
+            {
+                "role": "user",
+                "content": "Yes, that would be great! We’d like to sit together if possible."
+            },
+            {
+                "role": "chatbot",
+                "content": "I understand! We will try our best to assign seats together, but availability depends on the flight. Would you like to proceed with the booking now?"
+            },
+            {
+                "role": "user",
+                "content": "Can I add baggage options now, or do I have to do that later?"
+            },
+            {
+                "role": "chatbot",
+                "content": "You can add baggage options now or later through our website or mobile app. If your group requires extra baggage, we also offer discounted rates for pre-booking. Let me know how you'd like to proceed!"
+            },
+            {
+                "role": "user",
+                "content": "Okay, let me check with my group, and I’ll get back to you soon."
+            },
+            {
+                "role": "chatbot",
+                "content": "Sounds good! Feel free to reach out whenever you're ready. Safe travels!"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Hi, I’m booking a flight for a group of 6. Can I make one payment for all tickets?"
+            },
+            {
+                "role": "chatbot",
+                "content": "Hello! Yes, you can make a single payment for all passengers in the group. Would you like to proceed with booking now?"
+            },
+            {
+                "role": "user",
+                "content": "Yes, we’re traveling from Chicago to Miami on April 10."
+            },
+            {
+                "role": "chatbot",
+                "content": "Great! I can proceed with booking your tickets. Would you like to add baggage or meal preferences for your group?"
+            },
+            {
+                "role": "user",
+                "content": "No, we’ll add those later. How will I receive the tickets?"
+            },
+            {
+                "role": "chatbot",
+                "content": "Once the payment is completed, all tickets will be emailed to you. You can also access them through our website or mobile app."
+            },
+            {
+                "role": "user",
+                "content": "Perfect! I’ll complete the payment now."
+            },
+            {
+                "role": "chatbot",
+                "content": "Sounds good! Let me know if you need any further assistance. Safe travels!"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Hello, do you offer any special services for small groups traveling with children?"
+            },
+            {
+                "role": "chatbot",
+                "content": "Hi! Yes, we provide priority boarding for families with young children. We also offer in-flight entertainment and child-friendly meals. Would you like to add any special requests for your booking?"
+            },
+            {
+                "role": "user",
+                "content": "That’s great! We’re flying with 2 kids under 5 years old. Do we need to book separate seats for them?"
+            },
+            {
+                "role": "chatbot",
+                "content": "Children under 2 years can travel on a parent's lap, but for safety and comfort, you may choose to book a separate seat for them. Would you like me to check seat availability for your group?"
+            },
+            {
+                "role": "user",
+                "content": "Yes, please. Also, do you provide baby strollers at the airport?"
+            },
+            {
+                "role": "chatbot",
+                "content": "Yes, most airports provide stroller services. You can also check in your personal stroller at the gate. Would you like assistance with pre-booking a stroller?"
+            },
+            {
+                "role": "user",
+                "content": "No, that’s okay. I’ll bring my own. Thanks for the info!"
+            },
+            {
+                "role": "chatbot",
+                "content": "You're welcome! Let me know if you need anything else. Have a great flight!"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Hi, can I book multiple flights for my group under one reservation?"
+            },
+            {
+                "role": "chatbot",
+                "content": "Hello! Yes, you can book multiple flights under a single reservation. Would you like assistance in selecting the flights?"
+            },
+            {
+                "role": "user",
+                "content": "Yes, we need to fly from San Francisco to New York on June 5 and return on June 12."
+            },
+            {
+                "role": "chatbot",
+                "content": "Got it! I will check availability for both flights. Would you like direct flights, or are layovers acceptable?"
+            },
+            {
+                "role": "user",
+                "content": "We prefer direct flights if available."
+            },
+            {
+                "role": "chatbot",
+                "content": "Understood! I found direct flights on both dates. Would you like to proceed with booking?"
+            },
+            {
+                "role": "user",
+                "content": "Yes, please! Can I add seat preferences now?"
+            },
+            {
+                "role": "chatbot",
+                "content": "Absolutely! You can select your seats during booking. Let me know if you have any other requests."
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Hi, if one person in our group cancels, can we get a refund for their ticket?"
+            },
+            {
+                "role": "chatbot",
+                "content": "Hello! Refunds depend on the fare type you selected. Would you like me to check the cancellation policy for your booking?"
+            },
+            {
+                "role": "user",
+                "content": "Yes, please! We booked economy class tickets."
+            },
+            {
+                "role": "chatbot",
+                "content": "For economy class, cancellation fees may apply. If your ticket is refundable, you will receive a partial refund. Would you like to proceed with the cancellation?"
+            },
+            {
+                "role": "user",
+                "content": "Not yet. Can we transfer the ticket to another person instead?"
+            },
+            {
+                "role": "chatbot",
+                "content": "Unfortunately, tickets are non-transferable. However, I can help you with rebooking options if needed."
+            },
+            {
+                "role": "user",
+                "content": "Got it. I’ll check with my group and decide."
+            },
+            {
+                "role": "chatbot",
+                "content": "No problem! Let me know if you need any further assistance."
+            }
+        ]
+    }
+]

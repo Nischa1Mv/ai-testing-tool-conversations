@@ -1,0 +1,202 @@
+[
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Hi, I need to cancel my flight and request a refund."
+            },
+            {
+                "role": "chatbot",
+                "content": "Hello! I can assist you with that. Could you please provide your booking reference number?"
+            },
+            {
+                "role": "user",
+                "content": "Sure, it's DEF123."
+            },
+            {
+                "role": "chatbot",
+                "content": "Thank you. Let me check your booking details and refund eligibility."
+            },
+            {
+                "role": "chatbot",
+                "content": "Your ticket is refundable. Would you like to proceed with the cancellation and refund request?"
+            },
+            {
+                "role": "user",
+                "content": "Yes, please proceed."
+            },
+            {
+                "role": "chatbot",
+                "content": "Your flight has been canceled and the refund request has been initiated. You will receive a confirmation email shortly. Is there anything else I can help you with?"
+            },
+            {
+                "role": "user",
+                "content": "No, that's all for now. Thank you!"
+            },
+            {
+                "role": "chatbot",
+                "content": "You're welcome! If you have any more questions, feel free to reach out. Have a great day!"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Hello, I need to cancel my booking and get a refund."
+            },
+            {
+                "role": "chatbot",
+                "content": "Hi! Could you please provide your booking reference number to assist you with the cancellation and refund process?"
+            },
+            {
+                "role": "user",
+                "content": "My reference number is GHI456."
+            },
+            {
+                "role": "chatbot",
+                "content": "Thank you. I'll check your booking details and refund policy."
+            },
+            {
+                "role": "chatbot",
+                "content": "Your ticket is partially refundable with a cancellation fee. Do you want to continue with the cancellation and refund request?"
+            },
+            {
+                "role": "user",
+                "content": "Yes, let's go ahead with it."
+            },
+            {
+                "role": "chatbot",
+                "content": "Your booking has been canceled and the refund request has been processed. You will receive a confirmation email shortly. Do you need any further assistance?"
+            },
+            {
+                "role": "user",
+                "content": "No, that's all I needed. Thanks for your help!"
+            },
+            {
+                "role": "chatbot",
+                "content": "You're welcome! If you have any more questions, feel free to contact us. Have a wonderful day!"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Hi, I want to cancel my flight and request a refund."
+            },
+            {
+                "role": "chatbot",
+                "content": "Hello! Please provide your booking reference number so I can assist you with the cancellation and refund."
+            },
+            {
+                "role": "user",
+                "content": "It's JKL789."
+            },
+            {
+                "role": "chatbot",
+                "content": "Thank you. Let me verify your booking details and check the refund policy."
+            },
+            {
+                "role": "chatbot",
+                "content": "Your ticket is non-refundable, but you can receive a travel voucher for future use. Would you like to proceed with the cancellation and voucher issuance?"
+            },
+            {
+                "role": "user",
+                "content": "Yes, I'll take the travel voucher."
+            },
+            {
+                "role": "chatbot",
+                "content": "Your flight has been canceled and a travel voucher has been issued. You'll receive a confirmation email shortly. Is there anything else I can assist you with?"
+            },
+            {
+                "role": "user",
+                "content": "No, that's all. Thank you!"
+            },
+            {
+                "role": "chatbot",
+                "content": "You're welcome! Feel free to reach out if you have any more questions. Have a great day!"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Hello, I need to cancel my flight and request a refund."
+            },
+            {
+                "role": "chatbot",
+                "content": "Hi! Could you please provide your booking reference number to assist you with the cancellation and refund process?"
+            },
+            {
+                "role": "user",
+                "content": "The booking reference number is MNO123."
+            },
+            {
+                "role": "chatbot",
+                "content": "Thank you. I will now check your booking details and the refund policy."
+            },
+            {
+                "role": "chatbot",
+                "content": "Your ticket is eligible for a full refund. Would you like to proceed with the cancellation and refund request?"
+            },
+            {
+                "role": "user",
+                "content": "Yes, please proceed with the full refund."
+            },
+            {
+                "role": "chatbot",
+                "content": "Your flight has been canceled and a full refund has been initiated. You will receive a confirmation email shortly. Is there anything else I can help you with?"
+            },
+            {
+                "role": "user",
+                "content": "No, that's all I needed. Thank you for your assistance!"
+            },
+            {
+                "role": "chatbot",
+                "content": "You're welcome! If you have any further questions, feel free to contact us. Have a wonderful day!"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Hi, I'd like to cancel my flight and get a refund."
+            },
+            {
+                "role": "chatbot",
+                "content": "Hello! Please provide your booking reference number so I can assist you with your request."
+            },
+            {
+                "role": "user",
+                "content": "It's PQR456."
+            },
+            {
+                "role": "chatbot",
+                "content": "Thank you. Let me check your booking and the applicable refund policy."
+            },
+            {
+                "role": "chatbot",
+                "content": "Your ticket is partially refundable with a cancellation fee of $75. Do you want to proceed with the cancellation and refund?"
+            },
+            {
+                "role": "user",
+                "content": "Yes, please proceed with the cancellation."
+            },
+            {
+                "role": "chatbot",
+                "content": "Your flight has been canceled and the refund process has been initiated, minus the cancellation fee. You will receive a confirmation email shortly. Is there anything else I can assist you with?"
+            },
+            {
+                "role": "user",
+                "content": "No, that's all. Thank you for your help!"
+            },
+            {
+                "role": "chatbot",
+                "content": "You're welcome! If you have any further questions, feel free to reach out. Have a great day!"
+            }
+        ]
+    }
+]

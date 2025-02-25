@@ -1,0 +1,126 @@
+[
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Hi, my flight has been delayed. Can you tell me how long the delay is expected to be?"
+            },
+            {
+                "role": "chatbot",
+                "content": "Hello! I can help with that. Could you please provide your flight number?"
+            },
+            {
+                "role": "user",
+                "content": "Sure, my flight number is XY123."
+            },
+            {
+                "role": "chatbot",
+                "content": "Thank you. Let me check the status of your flight."
+            },
+            {
+                "role": "chatbot",
+                "content": "Your flight is currently delayed by two hours due to weather conditions. We apologize for any inconvenience caused."
+            },
+            {
+                "role": "user",
+                "content": "Thank you for the update. Will there be any compensation for the delay?"
+            },
+            {
+                "role": "chatbot",
+                "content": "Compensation policies can vary. I recommend checking with the airline's customer service desk at the airport for specific details regarding compensation."
+            },
+            {
+                "role": "user",
+                "content": "Alright, I'll do that. Thanks for your help."
+            },
+            {
+                "role": "chatbot",
+                "content": "You're welcome! If you have any more questions, feel free to ask. Safe travels!"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Hello, I just received a notification that my flight was canceled. What are my options now?"
+            },
+            {
+                "role": "chatbot",
+                "content": "Hi there! I'm sorry to hear that. Could you please provide your booking reference or flight number so I can assist you further?"
+            },
+            {
+                "role": "user",
+                "content": "My booking reference is PQR678."
+            },
+            {
+                "role": "chatbot",
+                "content": "Thank you. Let me check the details of your booking and the available options."
+            },
+            {
+                "role": "chatbot",
+                "content": "You can either rebook on the next available flight or request a full refund. Would you like assistance with rebooking?"
+            },
+            {
+                "role": "user",
+                "content": "Yes, please help me rebook on the next available flight."
+            },
+            {
+                "role": "chatbot",
+                "content": "The next flight is available tomorrow at 10 AM. Shall I go ahead and rebook you on that flight?"
+            },
+            {
+                "role": "user",
+                "content": "Yes, that would be great. Thank you."
+            },
+            {
+                "role": "chatbot",
+                "content": "Your new flight has been booked for tomorrow at 10 AM. Is there anything else I can help you with?"
+            },
+            {
+                "role": "user",
+                "content": "No, that's all. Thank you for your assistance!"
+            },
+            {
+                "role": "chatbot",
+                "content": "You're welcome! If you have any further questions, feel free to reach out. Have a safe journey!"
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "role": "user",
+                "content": "Hi, I heard about bad weather affecting flights. Will my flight be impacted?"
+            },
+            {
+                "role": "chatbot",
+                "content": "Hello! I can check that for you. Could you please provide your flight number?"
+            },
+            {
+                "role": "user",
+                "content": "My flight number is STU901."
+            },
+            {
+                "role": "chatbot",
+                "content": "Thank you! Let me check the latest updates for flight STU901... \nAccording to our system, your flight is currently scheduled to depart on time. However, due to weather conditions, there may be delays. We recommend checking for real-time updates closer to your departure time."
+            },
+            {
+                "role": "user",
+                "content": "What if my flight gets canceled? What are my options?"
+            },
+            {
+                "role": "chatbot",
+                "content": "If your flight is canceled due to weather, you will be eligible for a free rebooking on the next available flight. You can also opt for a full refund. I can assist you with rebooking if needed."
+            },
+            {
+                "role": "user",
+                "content": "That’s good to know. How do I check for updates myself?"
+            },
+            {
+                "role": "chatbot",
+                "content": "You can check flight status on our website or mobile app by entering your flight number. You may also sign up for SMS or email alerts to receive real-time updates."
+            }
+        ]
+    }
+]
