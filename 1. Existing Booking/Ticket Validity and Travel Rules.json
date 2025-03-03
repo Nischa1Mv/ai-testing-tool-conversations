@@ -1,6 +1,5 @@
 [
     {
-        "scenario": "Ticket Validity Inquiry",
         "conversation": [
             {
                 "user": "Hi, I wanted to know how long my ticket is valid for?",
@@ -21,7 +20,6 @@
         ]
     },
     {
-        "scenario": "Travel Rule Inquiry",
         "conversation": [
             {
                 "user": "Hi, I need some information about the travel rules for my flight.",
@@ -42,7 +40,6 @@
         ]
     },
     {
-        "scenario": "Ticket Change Inquiry due to Travel Rule Changes",
         "conversation": [
             {
                 "user": "Hello, I heard that the travel rules have changed. Can I change my ticket because of this?",
@@ -71,7 +68,6 @@
         ]
     },
     {
-        "scenario": "Inquiry about Ticket Extension",
         "conversation": [
             {
                 "user": "Hi, can I extend the validity of my ticket?",
@@ -96,7 +92,6 @@
         ]
     },
     {
-        "scenario": "Clarification on Baggage Allowance Rules",
         "conversation": [
             {
                 "user": "Hello, I need clarification on the baggage allowance for my flight.",

@@ -1,6 +1,5 @@
 [
     {
-        "scenario": "Voluntary Cancellation - Full Refund",
         "conversation": [
             {
                 "user": "Hi, I need to cancel my flight and would like a full refund. Can you help me with that?",
@@ -21,7 +20,6 @@
         ]
     },
     {
-        "scenario": "Voluntary Cancellation - Non-refundable Ticket",
         "conversation": [
             {
                 "user": "Hi, I'd like to cancel my flight. Can I get a refund?",
@@ -42,7 +40,6 @@
         ]
     },
     {
-        "scenario": "Rebooking a Flight",
         "conversation": [
             {
                 "user": "Hi, I need to rebook my flight to a different date. Can you help me with that?",
@@ -70,7 +67,6 @@
         ]
     },
     {
-        "scenario": "Voluntary Cancellation - Refund with Cancellation Fee",
         "conversation": [
             {
                 "user": "Hi, I need to cancel my flight and get a refund.",
@@ -91,7 +87,6 @@
         ]
     },
     {
-        "scenario": "Rebooking with Upgrade Request",
         "conversation": [
             {
                 "user": "Hi, I need to rebook my flight and was wondering if I could upgrade my seat?",
@@ -118,4 +113,4 @@
             }
         ]
     }
-]  
+]

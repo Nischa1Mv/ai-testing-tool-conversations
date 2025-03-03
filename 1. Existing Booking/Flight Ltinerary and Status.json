@@ -1,6 +1,5 @@
 [
     {
-        "scenario": "Check Flight Status",
         "conversation": [
             {
                 "agent": "AirlineBot",
@@ -23,7 +22,6 @@
         ]
     },
     {
-        "scenario": "Request Itinerary Details",
         "conversation": [
             {
                 "agent": "AirlineBot",
@@ -46,7 +44,6 @@
         ]
     },
     {
-        "scenario": "Flight Delayed Information",
         "conversation": [
             {
                 "agent": "AirlineBot",
@@ -69,7 +66,6 @@
         ]
     },
     {
-        "scenario": "Check-in Confirmation",
         "conversation": [
             {
                 "agent": "AirlineBot",
@@ -92,7 +88,6 @@
         ]
     },
     {
-        "scenario": "Flight Cancellation Inquiry",
         "conversation": [
             {
                 "agent": "AirlineBot",

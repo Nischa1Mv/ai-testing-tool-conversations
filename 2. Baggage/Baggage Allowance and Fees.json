@@ -1,107 +1,102 @@
-[  
-  {  
-    "scenario": "Baggage Allowance Inquiry",  
-    "conversation": [  
-      {  
-        "user": "Hi, can you tell me about the baggage allowance for my flight?",  
-        "chatbot": "Sure! Could you please provide me with your flight number or destination?"  
-      },  
-      {  
-        "user": "It's flight 123 to New York.",  
-        "chatbot": "For flight 123 to New York, you are allowed one carry-on bag up to 7 kg and one checked bag up to 23 kg. Would you like to know anything else?"  
-      },  
-      {  
-        "user": "Is there a fee for an additional checked bag?",  
-        "chatbot": "Yes, there is a fee for an additional checked bag. It costs $50 if you pay online in advance, or $70 at the airport."  
-      },  
-      {  
-        "user": "Thank you!",  
-        "chatbot": "You're welcome! Have a great trip!"  
-      }  
-    ]  
-  },  
-  {  
-    "scenario": "Overweight Baggage Fees",  
-    "conversation": [  
-      {  
-        "user": "Hi, what are the fees for overweight baggage?",  
-        "chatbot": "Hello! Overweight baggage fees depend on the weight of your bag. Could you tell me how much your bag weighs?"  
-      },  
-      {  
-        "user": "My bag is 30 kg.",  
-        "chatbot": "For a bag weighing 30 kg, there is a fee of $100. Would you like to pay now or at the airport?"  
-      },  
-      {  
-        "user": "Can I pay online to save time?",  
-        "chatbot": "Yes, you can pay online through our website or app. This will also save you some time at the airport."  
-      },  
-      {  
-        "user": "Great, I'll do that.",  
-        "chatbot": "Perfect! Let me know if you need help with anything else."  
-      }  
-    ]  
-  },  
-  {  
-    "scenario": "Special Baggage Items",  
-    "conversation": [  
-      {  
-        "user": "Hi, can I bring my golf clubs with me?",  
-        "chatbot": "Hello! Yes, you can bring your golf clubs. They are considered special baggage and may incur an additional fee. Would you like to know more about the fees?"  
-      },  
-      {  
-        "user": "Yes, please.",  
-        "chatbot": "The fee for bringing golf clubs is $60. Please ensure they are properly packed and labeled."  
-      },  
-      {  
-        "user": "Is there a weight limit for golf clubs?",  
-        "chatbot": "Yes, the weight limit for golf clubs is 23 kg. If they exceed this limit, additional fees may apply."  
-      },  
-      {  
-        "user": "Thank you for the information.",  
-        "chatbot": "You're welcome! Safe travels with your clubs!"  
-      }  
-    ]  
+[
+  {
+    "conversation": [
+      {
+        "user": "Hi, can you tell me about the baggage allowance for my flight?",
+        "chatbot": "Sure! Could you please provide me with your flight number or destination?"
+      },
+      {
+        "user": "It's flight 123 to New York.",
+        "chatbot": "For flight 123 to New York, you are allowed one carry-on bag up to 7 kg and one checked bag up to 23 kg. Would you like to know anything else?"
+      },
+      {
+        "user": "Is there a fee for an additional checked bag?",
+        "chatbot": "Yes, there is a fee for an additional checked bag. It costs $50 if you pay online in advance, or $70 at the airport."
+      },
+      {
+        "user": "Thank you!",
+        "chatbot": "You're welcome! Have a great trip!"
+      }
+    ]
   },
-  {  
-    "scenario": "International Baggage Allowance",  
-    "conversation": [  
-      {  
-        "user": "Hi, what is the baggage allowance for international flights?",  
-        "chatbot": "Hello! Baggage allowance for international flights can vary depending on your destination. Can you please provide your flight number or destination?"  
-      },  
-      {  
-        "user": "I'm flying to London.",  
-        "chatbot": "For flights to London, you are allowed one carry-on bag up to 8 kg and two checked bags up to 23 kg each. Do you need information on additional baggage?"  
-      },  
-      {  
-        "user": "What if my bags are overweight?",  
-        "chatbot": "If your checked bags are overweight, fees will apply. For bags weighing between 23 kg and 32 kg, the fee is $75 per bag."  
-      },  
-      {  
-        "user": "Thanks for the information.",  
-        "chatbot": "You're welcome! Have a pleasant journey to London!"  
-      }  
-    ]  
-  },  
-  {  
-    "scenario": "Baggage Allowance for Infants",  
-    "conversation": [  
-      {  
-        "user": "Hi, is there a baggage allowance for infants?",  
-        "chatbot": "Hello! Yes, infants have a special baggage allowance. Can you provide your flight details for more specific information?"  
-      },  
-      {  
-        "user": "I'm on flight 456 to Tokyo.",  
-        "chatbot": "For flight 456 to Tokyo, infants are allowed one checked bag up to 10 kg and a collapsible stroller or car seat. Would you like more details?"  
-      },  
-      {  
-        "user": "Is there a fee for a stroller?",  
-        "chatbot": "No, there is no additional fee for bringing a collapsible stroller or car seat for an infant."  
-      },  
-      {  
-        "user": "Great, thank you for the help!",  
-        "chatbot": "You're welcome! Have a safe and comfortable trip with your little one!"  
-      }  
-    ]  
-  }  
-]  
+  {
+    "conversation": [
+      {
+        "user": "Hi, what are the fees for overweight baggage?",
+        "chatbot": "Hello! Overweight baggage fees depend on the weight of your bag. Could you tell me how much your bag weighs?"
+      },
+      {
+        "user": "My bag is 30 kg.",
+        "chatbot": "For a bag weighing 30 kg, there is a fee of $100. Would you like to pay now or at the airport?"
+      },
+      {
+        "user": "Can I pay online to save time?",
+        "chatbot": "Yes, you can pay online through our website or app. This will also save you some time at the airport."
+      },
+      {
+        "user": "Great, I'll do that.",
+        "chatbot": "Perfect! Let me know if you need help with anything else."
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "user": "Hi, can I bring my golf clubs with me?",
+        "chatbot": "Hello! Yes, you can bring your golf clubs. They are considered special baggage and may incur an additional fee. Would you like to know more about the fees?"
+      },
+      {
+        "user": "Yes, please.",
+        "chatbot": "The fee for bringing golf clubs is $60. Please ensure they are properly packed and labeled."
+      },
+      {
+        "user": "Is there a weight limit for golf clubs?",
+        "chatbot": "Yes, the weight limit for golf clubs is 23 kg. If they exceed this limit, additional fees may apply."
+      },
+      {
+        "user": "Thank you for the information.",
+        "chatbot": "You're welcome! Safe travels with your clubs!"
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "user": "Hi, what is the baggage allowance for international flights?",
+        "chatbot": "Hello! Baggage allowance for international flights can vary depending on your destination. Can you please provide your flight number or destination?"
+      },
+      {
+        "user": "I'm flying to London.",
+        "chatbot": "For flights to London, you are allowed one carry-on bag up to 8 kg and two checked bags up to 23 kg each. Do you need information on additional baggage?"
+      },
+      {
+        "user": "What if my bags are overweight?",
+        "chatbot": "If your checked bags are overweight, fees will apply. For bags weighing between 23 kg and 32 kg, the fee is $75 per bag."
+      },
+      {
+        "user": "Thanks for the information.",
+        "chatbot": "You're welcome! Have a pleasant journey to London!"
+      }
+    ]
+  },
+  {
+    "conversation": [
+      {
+        "user": "Hi, is there a baggage allowance for infants?",
+        "chatbot": "Hello! Yes, infants have a special baggage allowance. Can you provide your flight details for more specific information?"
+      },
+      {
+        "user": "I'm on flight 456 to Tokyo.",
+        "chatbot": "For flight 456 to Tokyo, infants are allowed one checked bag up to 10 kg and a collapsible stroller or car seat. Would you like more details?"
+      },
+      {
+        "user": "Is there a fee for a stroller?",
+        "chatbot": "No, there is no additional fee for bringing a collapsible stroller or car seat for an infant."
+      },
+      {
+        "user": "Great, thank you for the help!",
+        "chatbot": "You're welcome! Have a safe and comfortable trip with your little one!"
+      }
+    ]
+  }
+]

@@ -1,6 +1,5 @@
 [
     {
-        "scenario": "User wants to reserve a seat",
         "conversation": [
             {
                 "agent": "AirlineBot",
@@ -33,7 +32,6 @@
         ]
     },
     {
-        "scenario": "User wants to modify seat selection",
         "conversation": [
             {
                 "agent": "AirlineBot",

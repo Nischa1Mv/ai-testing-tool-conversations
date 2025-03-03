@@ -1,6 +1,5 @@
 [
     {
-        "scenario": "Successful Web Check-In",
         "conversation": [
             {
                 "user": "Hi, I need help with checking in for my flight online.",
@@ -21,7 +20,6 @@
         ]
     },
     {
-        "scenario": "Web Check-In - Seat Selection Issue",
         "conversation": [
             {
                 "user": "Hi, I'm having trouble selecting my seat during web check-in. Can you help?",
@@ -45,7 +43,6 @@
         ]
     },
     {
-        "scenario": "Web Check-In - Passport Information Required",
         "conversation": [
             {
                 "user": "Hi, I can't complete my web check-in. It says I need to enter my passport information.",
@@ -66,7 +63,6 @@
         ]
     },
     {
-        "scenario": "Web Check-In - Flight Not Open for Check-In Yet",
         "conversation": [
             {
                 "user": "Hi, I'm trying to check in online, but it's not working.",
@@ -86,7 +82,6 @@
         ]
     },
     {
-        "scenario": "Web Check-In - Baggage Allowance Inquiry",
         "conversation": [
             {
                 "user": "Hi, I'm about to check in online and I want to know my baggage allowance.",
@@ -107,7 +102,6 @@
         ]
     },
     {
-        "scenario": "Web Check-In - Error Message",
         "conversation": [
             {
                 "user": "Hi, I'm getting an error message when trying to check in online.",
@@ -126,4 +120,4 @@
             }
         ]
     }
-]  
+]

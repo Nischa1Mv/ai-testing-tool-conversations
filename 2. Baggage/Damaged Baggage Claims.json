@@ -1,128 +1,122 @@
-[  
-    {  
-        "scenario": "Immediate Damage Report",  
-        "conversation": [  
-            {  
-                "user": "Hi, I just arrived and noticed my baggage is damaged. What should I do?"  
-            },  
-            {  
-                "chatbot": "I'm sorry to hear that your baggage is damaged. Please visit our baggage service office located near the baggage claim area at your arrival airport. Our staff will assist you with filing a damage report."  
-            },  
-            {  
-                "user": "Can I do this online?"  
-            },  
-            {  
-                "chatbot": "Currently, damage claims need to be reported in person at the airport. Our team there will ensure the process is as smooth as possible for you."  
-            },  
-            {  
-                "user": "What documents do I need to bring?"  
-            },  
-            {  
-                "chatbot": "Please bring your boarding pass, baggage tag, and a photo ID. If you can take pictures of the damage, that would be helpful too."  
-            }  
-        ]  
-    },  
-    {  
-        "scenario": "Delayed Damage Report",  
-        "conversation": [  
-            {  
-                "user": "I got home and noticed my suitcase is damaged. I didn't report it at the airport. Can I still make a claim?"  
-            },  
-            {  
-                "chatbot": "Yes, you can still file a claim. Please visit our website and fill out the damaged baggage claim form within 7 days of your flight. You'll need to upload photos of the damage and provide your flight details."  
-            },  
-            {  
-                "user": "What information do I need to provide for the online claim?"  
-            },  
-            {  
-                "chatbot": "You'll need your boarding pass information, baggage claim ticket number, a description of the damage, and photos of the damage. Please ensure all information is accurate to avoid delays in processing."  
-            },  
-            {  
-                "user": "How long will it take to process my claim?"  
-            },  
-            {  
-                "chatbot": "Claims are typically processed within 2-4 weeks. We will notify you via email once your claim has been reviewed."  
-            }  
-        ]  
-    },  
-    {  
-        "scenario": "Compensation Inquiry",  
-        "conversation": [  
-            {  
-                "user": "What kind of compensation can I expect for my damaged baggage?"  
-            },  
-            {  
-                "chatbot": "Compensation varies depending on the extent of the damage and the item's value. Once your claim is processed, our team will determine the appropriate compensation based on these factors."  
-            },  
-            {  
-                "user": "Will I be reimbursed for the full value of my suitcase?"  
-            },  
-            {  
-                "chatbot": "We strive to compensate fairly, but the amount will depend on the depreciation and the condition of the item before the damage. Detailed information will be provided once the claim is processed."  
-            },  
-            {  
-                "user": "Can I track my claim status?"  
-            },  
-            {  
-                "chatbot": "Yes, you can track the status of your claim through our website using your claim reference number provided after submission."  
-            }  
-        ]  
+[
+    {
+        "conversation": [
+            {
+                "user": "Hi, I just arrived and noticed my baggage is damaged. What should I do?"
+            },
+            {
+                "chatbot": "I'm sorry to hear that your baggage is damaged. Please visit our baggage service office located near the baggage claim area at your arrival airport. Our staff will assist you with filing a damage report."
+            },
+            {
+                "user": "Can I do this online?"
+            },
+            {
+                "chatbot": "Currently, damage claims need to be reported in person at the airport. Our team there will ensure the process is as smooth as possible for you."
+            },
+            {
+                "user": "What documents do I need to bring?"
+            },
+            {
+                "chatbot": "Please bring your boarding pass, baggage tag, and a photo ID. If you can take pictures of the damage, that would be helpful too."
+            }
+        ]
     },
-        {  
-            "scenario": "Immediate Damage Report - Language Assistance Needed",  
-            "conversation": [  
-                {  
-                    "user": "Hola, acabo de llegar y mi equipaje está dañado. ¿Qué debo hacer?"  
-                },  
-                {  
-                    "chatbot": "Lamento saber que su equipaje está dañado. Por favor, visite nuestra oficina de servicio de equipaje ubicada cerca del área de reclamo de equipaje en su aeropuerto de llegada. Nuestro personal lo asistirá con el informe de daños."  
-                },  
-                {  
-                    "user": "No hablo mucho inglés, ¿pueden ayudarme en español en la oficina?"  
-                },  
-                {  
-                    "chatbot": "Sí, nuestro personal en la oficina puede ayudarlo en español. Asegúrese de llevar su pase de abordar, etiqueta de equipaje y una identificación con foto."  
-                }  
-            ]  
-        },  
-        {  
-            "scenario": "Delayed Damage Report - Lost Baggage Tag",  
-            "conversation": [  
-                {  
-                    "user": "I noticed my baggage is damaged, but I lost my baggage tag. Can I still file a claim?"  
-                },  
-                {  
-                    "chatbot": "Yes, you can still file a claim even without your baggage tag. Please provide your flight details and any other relevant information you have when filling out the online claim form."  
-                },  
-                {  
-                    "user": "Will this affect the processing time of my claim?"  
-                },  
-                {  
-                    "chatbot": "Not necessarily, but providing as much information as possible can help speed up the process. We will do our best to assist you with the details you can provide."  
-                }  
-            ]  
-        },  
-        {  
-            "scenario": "Compensation Inquiry - High-Value Item",  
-            "conversation": [  
-                {  
-                    "user": "My suitcase was damaged and it contained some high-value items. How do I ensure they are covered?"  
-                },  
-                {  
-                    "chatbot": "For high-value items, please ensure that you provide a detailed description and any receipts or proof of purchase when submitting your claim. This will help us assess the appropriate compensation."  
-                },  
-                {  
-                    "user": "What if I don't have the receipts for those items?"  
-                },  
-                {  
-                    "chatbot": "If receipts are not available, provide as much detail as possible about the items, such as brand, model, or estimated value. Our team will consider this information during the claim evaluation."  
-                },  
-                {  
-                    "user": "Is there a limit to how much I can claim for high-value items?"  
-                },  
-                {  
-                    "chatbot": "Compensation limits can vary based on the airline's policy and international regulations. Please refer to our terms and conditions for more details, or contact our customer service for assistance."  
-                }  
-            ]  
-        }  
-    ]  
+    {
+        "conversation": [
+            {
+                "user": "I got home and noticed my suitcase is damaged. I didn't report it at the airport. Can I still make a claim?"
+            },
+            {
+                "chatbot": "Yes, you can still file a claim. Please visit our website and fill out the damaged baggage claim form within 7 days of your flight. You'll need to upload photos of the damage and provide your flight details."
+            },
+            {
+                "user": "What information do I need to provide for the online claim?"
+            },
+            {
+                "chatbot": "You'll need your boarding pass information, baggage claim ticket number, a description of the damage, and photos of the damage. Please ensure all information is accurate to avoid delays in processing."
+            },
+            {
+                "user": "How long will it take to process my claim?"
+            },
+            {
+                "chatbot": "Claims are typically processed within 2-4 weeks. We will notify you via email once your claim has been reviewed."
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "user": "What kind of compensation can I expect for my damaged baggage?"
+            },
+            {
+                "chatbot": "Compensation varies depending on the extent of the damage and the item's value. Once your claim is processed, our team will determine the appropriate compensation based on these factors."
+            },
+            {
+                "user": "Will I be reimbursed for the full value of my suitcase?"
+            },
+            {
+                "chatbot": "We strive to compensate fairly, but the amount will depend on the depreciation and the condition of the item before the damage. Detailed information will be provided once the claim is processed."
+            },
+            {
+                "user": "Can I track my claim status?"
+            },
+            {
+                "chatbot": "Yes, you can track the status of your claim through our website using your claim reference number provided after submission."
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "user": "Hola, acabo de llegar y mi equipaje está dañado. ¿Qué debo hacer?"
+            },
+            {
+                "chatbot": "Lamento saber que su equipaje está dañado. Por favor, visite nuestra oficina de servicio de equipaje ubicada cerca del área de reclamo de equipaje en su aeropuerto de llegada. Nuestro personal lo asistirá con el informe de daños."
+            },
+            {
+                "user": "No hablo mucho inglés, ¿pueden ayudarme en español en la oficina?"
+            },
+            {
+                "chatbot": "Sí, nuestro personal en la oficina puede ayudarlo en español. Asegúrese de llevar su pase de abordar, etiqueta de equipaje y una identificación con foto."
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "user": "I noticed my baggage is damaged, but I lost my baggage tag. Can I still file a claim?"
+            },
+            {
+                "chatbot": "Yes, you can still file a claim even without your baggage tag. Please provide your flight details and any other relevant information you have when filling out the online claim form."
+            },
+            {
+                "user": "Will this affect the processing time of my claim?"
+            },
+            {
+                "chatbot": "Not necessarily, but providing as much information as possible can help speed up the process. We will do our best to assist you with the details you can provide."
+            }
+        ]
+    },
+    {
+        "conversation": [
+            {
+                "user": "My suitcase was damaged and it contained some high-value items. How do I ensure they are covered?"
+            },
+            {
+                "chatbot": "For high-value items, please ensure that you provide a detailed description and any receipts or proof of purchase when submitting your claim. This will help us assess the appropriate compensation."
+            },
+            {
+                "user": "What if I don't have the receipts for those items?"
+            },
+            {
+                "chatbot": "If receipts are not available, provide as much detail as possible about the items, such as brand, model, or estimated value. Our team will consider this information during the claim evaluation."
+            },
+            {
+                "user": "Is there a limit to how much I can claim for high-value items?"
+            },
+            {
+                "chatbot": "Compensation limits can vary based on the airline's policy and international regulations. Please refer to our terms and conditions for more details, or contact our customer service for assistance."
+            }
+        ]
+    }
+]
